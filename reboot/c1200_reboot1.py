@@ -3,8 +3,8 @@ from netmiko import ConnectHandler
 device = {
     "device_type": "cisco_ios",      # cocok untuk switch Cisco Catalyst
     "host": "192.168.110.195",           # ganti dengan IP switch Anda
-    "username": "@@@@@",             # username
-    "password": "@@@@!",     # password
+    "username": "!!!",             # username
+    "password": "!!!",     # password
 }
 
 try:
